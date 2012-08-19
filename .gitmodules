@@ -19,3 +19,15 @@
 [submodule "vendor/popcorn-js"]
 	path = vendor/popcorn-js
 	url = git://github.com/mozilla/popcorn-js.git
+[submodule "vendor/normalize.css"]
+	path = vendor/normalize.css
+	url = git://github.com/necolas/normalize.css.git
+[submodule "vendor/less.js"]
+	path = vendor/less.js
+	url = git://github.com/cloudhead/less.js.git
+[submodule "vendor/cleanslate"]
+	path = vendor/cleanslate
+	url = git://github.com/premasagar/cleanslate.git
+[submodule "vendor/Modernizr"]
+	path = vendor/Modernizr
+	url = git://github.com/Modernizr/Modernizr.git
