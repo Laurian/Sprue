@@ -10,9 +10,6 @@
 [submodule "vendor/dat-gui"]
 	path = vendor/dat-gui
 	url = git://github.com/Laurian/dat-gui.git
-[submodule "vendor/Sprite3D.js"]
-	path = vendor/Sprite3D.js
-	url = git://github.com/boblemarin/Sprite3D.js.git
 [submodule "vendor/photon"]
 	path = vendor/photon
 	url = git://github.com/thomasxiii/photon.git
@@ -40,3 +37,6 @@
 [submodule "vendor/jQuery-Css3-Finalize"]
 	path = vendor/jQuery-Css3-Finalize
 	url = git://github.com/codler/jQuery-Css3-Finalize.git
+[submodule "vendor/Sprite3D.js"]
+	path = vendor/Sprite3D.js
+	url = git://github.com/boblemarin/Sprite3D.js.git
