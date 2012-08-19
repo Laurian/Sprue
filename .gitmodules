@@ -40,3 +40,6 @@
 [submodule "vendor/Sprite3D.js"]
 	path = vendor/Sprite3D.js
 	url = git://github.com/boblemarin/Sprite3D.js.git
+[submodule "vendor/html5-boilerplate"]
+	path = vendor/html5-boilerplate
+	url = git://github.com/h5bp/html5-boilerplate.git
