@@ -31,3 +31,12 @@
 [submodule "vendor/Modernizr"]
 	path = vendor/Modernizr
 	url = git://github.com/Modernizr/Modernizr.git
+[submodule "vendor/animate.css"]
+	path = vendor/animate.css
+	url = git://github.com/daneden/animate.css.git
+[submodule "vendor/CodeMirror2"]
+	path = vendor/CodeMirror2
+	url = git://github.com/marijnh/CodeMirror2.git
+[submodule "vendor/jQuery-Css3-Finalize"]
+	path = vendor/jQuery-Css3-Finalize
+	url = git://github.com/codler/jQuery-Css3-Finalize.git
