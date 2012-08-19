@@ -1,0 +1,21 @@
+[submodule "vendor/jquery-mutation-summary"]
+	path = vendor/jquery-mutation-summary
+	url = git://github.com/joelpurra/jquery-mutation-summary.git
+[submodule "vendor/mutation-summary"]
+	path = vendor/mutation-summary
+	url = https://code.google.com/p/mutation-summary/
+[submodule "vendor/jquery-dat-gui"]
+	path = vendor/jquery-dat-gui
+	url = git://github.com/Laurian/jquery-dat-gui.git
+[submodule "vendor/dat-gui"]
+	path = vendor/dat-gui
+	url = git://github.com/Laurian/dat-gui.git
+[submodule "vendor/Sprite3D.js"]
+	path = vendor/Sprite3D.js
+	url = git://github.com/boblemarin/Sprite3D.js.git
+[submodule "vendor/photon"]
+	path = vendor/photon
+	url = git://github.com/thomasxiii/photon.git
+[submodule "vendor/popcorn-js"]
+	path = vendor/popcorn-js
+	url = git://github.com/mozilla/popcorn-js.git
